@@ -4,9 +4,7 @@
 body {	
 	background: url('/images/bg-2.jpg');
 	background: #ececec;
-	font: {
-		family: 'Roboto', sans-serif;
-	}
+	font-family: 'Roboto', sans-serif;	
 }
 
 @media #{$phone} {	
