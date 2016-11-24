@@ -1,0 +1,54 @@
+@import "variables";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+// Set media queries
+$phone-sm: "(max-width : 479px)";
+$phone: "(max-width : 767px)";
+$tablet-sm: "(min-width : 480px)";
+$tablet: "(min-width : 768px)";
+$tablet-device: "(min-device-width : 768px)";
+$desktop: "(min-width : 991px)";
+
+// Set placeholders
+%baseColor {
+	color:#{$brand-primary};
+}
+
+%baseBackground {
+	background:#{$brand-primary};
+}
+
+%brandFont {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+// Set mixins - returns property and value
+@mixin setBackground($bgurl,$bgsize,$position:null) {
+	background: url($bgurl) no-repeat;
+	background-size: unquote($bgsize);
+
+	@if($position) {
+		background-attachment:unquote($position);
+	}
+}
+
+
+@mixin setBorderRadius($border) {
+	-webkit-border-radius: $border;
+	-moz-border-radius: $border;
+	border-radius: $border;
+
+}
+// Set functions - returns values
+@function number($id,$from,$to) {
+	@if $from == $to {
+		@return '#{$id}#{$from}';
+	} @else {
+		@return '#{$id}#{$from},' + number($id,$from+1,$to);
+	}
+}
+
+@function setSpacing($padding) {
+	@return #{$padding}px;
+}

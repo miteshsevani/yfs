@@ -1,0 +1,1 @@
+$(document).ready(function(){$('[data-toggle="tooltip"]').tooltip(),$(".item").click(function(){$("#carousel").carousel(1)}),$(".left").click(function(){$("#carousel").carousel("prev")}),$(".carousel").carousel({pause:"false"}),$(".nav.navbar-nav li").on("click",function(){$(this).addClass("active")})});
