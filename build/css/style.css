@@ -6060,17 +6060,6 @@ body {
     margin-top: 30px;
     border-bottom: 1px solid #025aa5; }
 
-.social-media {
-  position: fixed;
-  top: 20%;
-  right: 0px;
-  z-index: 1001; }
-  .social-media a:hover {
-    text-decoration: none; }
-  .social-media a .fa {
-    font-size: 40px;
-    display: block; }
-
 footer {
   background: #025aa5;
   padding-top: 10px;

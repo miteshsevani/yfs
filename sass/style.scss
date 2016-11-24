@@ -39,6 +39,7 @@ body {
 		text-transform: uppercase; 
 	}
 
+	// Header
 	header {		
 		.logo {
 			float:left;
@@ -375,24 +376,6 @@ body {
 				border-bottom: 1px solid $brand-primary;
 			}
 		}		
-	}
-}
-
-// Social Media
-
-.social-media {
-	position: fixed;
-	top:20%;
-	right: 0px;
-	z-index: 1001;
-	a {
-		&:hover {
-			text-decoration: none;
-		}
-		.fa { 			
-			font-size: 40px;
-			display: block;
-		}
 	}
 }
 
