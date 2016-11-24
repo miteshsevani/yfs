@@ -4,7 +4,9 @@
 body {	
 	background: url('/images/bg-2.jpg');
 	background: #ececec;
-	font-family: 'Roboto', sans-serif;
+	font: {
+		family: 'Roboto', sans-serif;
+	}
 }
 
 @media #{$phone} {	
@@ -364,7 +366,7 @@ body {
 				list-style: none;
 				a { 
 					font-size: $font-size-h4;
-					font-weight:400;
+					font-weight:300;
 				}
 			}
 

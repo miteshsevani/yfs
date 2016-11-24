@@ -94,7 +94,6 @@
                     </div>
                 </div>           
             </div>
-
         <!-- End Item -->
         </div>
         <a data-slide="prev" href="#custom_carousel" class="izq carousel-control">‹</a>
