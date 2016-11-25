@@ -24,12 +24,3 @@
 	    </div>
 	  </div>
 	</nav>
-
-	<div class="row visible-xs">
-		<div class="col col-xs">
-			<div class="sub-nav">
-				<a href="apply/" class="btn btn-info">Apply Now</a>
-				<a href="https://mydonate.bt.com/donation/start.html?charity=53048" target="_blank" class="btn btn-success">Donate</a>
-			</div>
-		</div>
-	</div>

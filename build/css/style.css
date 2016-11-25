@@ -5954,11 +5954,6 @@ body {
       .container .navbar .container-fluid .navbar-collapse {
         margin: 0px;
         padding: 0px; } }
-  .container .sub-nav {
-    margin: 15px 0px;
-    text-align: center; }
-    .container .sub-nav .btn {
-      margin: 0px 5px; }
   .container .carousel-fade .carousel-inner .item {
     transition-property: opacity; }
   .container .carousel-fade .carousel-inner .item,
