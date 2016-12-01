@@ -248,19 +248,15 @@ body {
 	
 	// main section
 	.main {
-		line-height: 1.8em;
 		@media #{$tablet} {
 			padding: setSpacing(20);
 		}
-
 		@media #{$desktop} {
 			padding: setSpacing(20) setSpacing(80) setSpacing(50);
 		}
 
-		.brand {
-			@extend %brandFont;
-		}
-
+		line-height: 1.8em;
+		
 		hr {
 		    height: 10px;
 		    border-top: 1px solid darken($gray-lighter,10%);
@@ -268,6 +264,13 @@ body {
 			&:last-child {
 				display:none;
 			}
+		}
+		
+		.brand {
+			@extend %brandFont;
+		}
+		.date {
+			color: #aaa;
 		}
 		.top {
 			float:right;
@@ -350,7 +353,7 @@ body {
 			}
 			a:after { 
 				content: ' >';
-			}			
+			}
 		}
 		// FAqs
 		&.page-faq {

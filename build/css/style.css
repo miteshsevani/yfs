@@ -5999,6 +5999,8 @@ body {
       width: 70%; }
       .container .main hr:last-child {
         display: none; }
+    .container .main .date {
+      color: #aaa; }
     .container .main .top {
       float: right;
       font-size: 16px; }

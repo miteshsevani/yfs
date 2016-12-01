@@ -11,7 +11,7 @@
 			<div class="col col-sm-12">
 				<h4>Hem Mistry</h4>
 				<h3>YFS – Why & Initial Thoughts</h3>
-				<strong>Posted on August 3, 2016</strong>
+				<p class="date">Posted on August 3, 2016</p>
 				<p>Sewa in its simplest form is Selfless Service and to me it is greater than charity work through the relationships / personal touch made with those that you are serving. Due to my background as a Swayamsevak, the act of Sewa is promoted and is of great focus within our work, and any opportunity, no matter how small or large, should be taken if you are able to.</p>
 				<a href="https://hemmistry.wordpress.com" target="_blank">Read Hem's blog</a>
 				<hr />
