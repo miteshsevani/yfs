@@ -5842,6 +5842,10 @@ body {
     font-family: 'Slabo 27px', serif; }
   .container h2 {
     text-transform: uppercase; }
+  .container .left {
+    float: left; }
+  .container .right {
+    float: right; }
   .container header .logo {
     float: left;
     margin-right: 38px; }
@@ -5999,6 +6003,8 @@ body {
       width: 70%; }
       .container .main hr:last-child {
         display: none; }
+    .container .main blockquote {
+      font-style: italic; }
     .container .main .date {
       color: #aaa; }
     .container .main .top {
@@ -6048,6 +6054,16 @@ body {
       width: 100%; }
     .container .main.page-blog h3 {
       color: #ea6537; }
+    .container .main.page-blog h4 {
+      color: #555555;
+      font-weight: bold; }
+    .container .main.page-blog img {
+      width: 170px;
+      margin-bottom: 20px; }
+      .container .main.page-blog img.left {
+        margin-right: 20px; }
+      .container .main.page-blog img.right {
+        margin-left: 20px; }
     .container .main.page-blog a:after {
       content: ' >'; }
     .container .main.page-faq ul {

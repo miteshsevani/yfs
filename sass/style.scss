@@ -36,7 +36,12 @@ body {
 	h2 { 
 		text-transform: uppercase; 
 	}
-
+	.left {
+		float:left;
+	}
+	.right {
+		float:right;
+	}
 	// Header
 	header {		
 		.logo {
@@ -265,7 +270,9 @@ body {
 				display:none;
 			}
 		}
-		
+		blockquote {
+			font-style: italic;
+		}
 		.brand {
 			@extend %brandFont;
 		}
@@ -350,6 +357,20 @@ body {
 		&.page-blog {
 			h3 {
 				color:$orange;
+			}
+			h4 {
+				color:$gray;
+				font-weight:bold;
+			}
+			img {
+				width:170px;
+				margin-bottom: 20px;
+				&.left {
+					margin-right: 20px;
+				}
+				&.right {
+					margin-left: 20px;
+				}
 			}
 			a:after { 
 				content: ' >';
