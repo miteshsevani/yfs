@@ -34,6 +34,11 @@
  				<p>Projects are available in health care, education, environmental awareness, women’s empowerment, rural development and micro-finance.</p>
 				<p>Interns spend the duration of their internship working with NGOs in the community.</p>
 				<p>Through service, they will discover, learn and engage in a transformative experience that empowers them, as they strive to make an impact in their chosen field.</p>
+<<<<<<< HEAD
+=======
+				<br /><br />
+				
+>>>>>>> wip
 			</div>		
 			<div class="col col-sm-4">
 				<h4>Is <span class="brand">YFS</span> for you?</h4>
