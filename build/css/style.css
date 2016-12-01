@@ -5896,6 +5896,9 @@ body {
       .container .navbar .nav > li a {
         color: #ddd;
         padding: 10px 17px; }
+        @media (min-width: 768px) and (max-width: 992px) {
+          .container .navbar .nav > li a {
+            padding: 10px 14px; } }
         .container .navbar .nav > li a:focus {
           background-color: transparent; }
       .container .navbar .nav > li.current {

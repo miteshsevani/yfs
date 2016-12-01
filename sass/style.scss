@@ -109,6 +109,9 @@ body {
 			a {
 				color:#ddd;
 				padding: 10px 17px;
+				@media #{$tablet-only} {
+					padding: 10px 14px;
+				}
 				&:focus {
 					background-color: transparent;
 				}
