@@ -4,7 +4,7 @@
 body {	
 	background: url('/images/bg-2.jpg');
 	background: #ececec;
-	font-family: 'Roboto', sans-serif;	
+	font-family: 'Roboto', sans-serif;
 }
 
 @media #{$phone} {	
@@ -92,7 +92,7 @@ body {
 		}
 
 		.nav > li {
-			cursor: pointer;				
+			cursor: pointer;
 			a {
 				color:#ddd;
 				padding: 10px 17px;
@@ -100,7 +100,7 @@ body {
 					background-color: transparent;
 				}
 			}
-			&.current {				
+			&.current {
 				background: $orange;
 				a {
 					color:$white;
@@ -112,7 +112,7 @@ body {
 					color:$orange;
 				}
 				&.current {
-					border: none;					
+					border: none;
 					font-weight:900;
 					background: none;
 					a {
@@ -129,7 +129,7 @@ body {
 							color:$white;
 						}
 					}
-				}					
+				}
 			}
 		}
 		
@@ -138,15 +138,15 @@ body {
 				&:hover {
 					border-bottom: none;
 					background: none;
-				}				
+				}
 				> a {
-					padding: 0px 10px;					
+					padding: 0px 10px;
 					&:hover {
 						font-weight:700;
 					}
 				}
 			}
-			text-transform: none;			
+			text-transform: none;
 		}
 
 		.navbar-toggle {
@@ -181,7 +181,7 @@ body {
 		    @media #{$phone}{
 				margin-left:19px;
 		    }
-		    &:hover {		    	
+		    &:hover {
 		    	color:$nav-font-color;
 		    	background-color:$brand-primary;
 		    }
@@ -234,7 +234,7 @@ body {
 	.carousel-inner, 
 	.carousel-inner .item {
 		img {
-			height: 470px;			
+			height: 470px;
 			@media #{$phone} {
 				height:350px;
 			}
@@ -248,7 +248,7 @@ body {
 	
 	// main section
 	.main {
-		
+		line-height: 1.8em;
 		@media #{$tablet} {
 			padding: setSpacing(20);
 		}
@@ -283,7 +283,7 @@ body {
 			#map_wrapper {
 		    	height: 400px;
 		    	width:auto;
-		    	margin: 0 auto;		    	
+		    	margin: 0 auto;
 				a:after {
 					content: ' >';
 				}
@@ -305,7 +305,7 @@ body {
 				
 				&:last-child {
 					border-bottom: none;
-				}								
+				}
 				#{number('h',1,6)} {
 					text-transform: none;
 				}
@@ -332,7 +332,7 @@ body {
 				.videoWrapper {
 					padding-bottom: 28.12%; /* 16:9 */
 				}
-				.videoWrapper iframe {					
+				.videoWrapper iframe {
 					width: 50%;
 				}
 			}
@@ -344,10 +344,13 @@ body {
 			}
 		}
 		// Blog
-		&.page-blog {			
+		&.page-blog {
+			h3 {
+				color:$orange;
+			}
 			a:after { 
 				content: ' >';
-			}
+			}			
 		}
 		// FAqs
 		&.page-faq {
@@ -372,6 +375,7 @@ body {
 footer {			
 	background: $brand-primary;
 	padding-top: setSpacing(10);
+	margin-top:30px;
 	color:$gray-lighter;
 	text-align: center;
 	font-size: $font-size-small;

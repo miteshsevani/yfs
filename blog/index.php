@@ -19,8 +19,13 @@
 				<h3>Longings, Development and Thoughts</h3>
 				<strong>Posted on July 17, 2016</strong>
 				<p>Three weeks from now I will be making my second trip to India as part of the YFS initiative. YFS (Youth for Sewa) is an internship program which takes on those of age 18-25. Then sends them to work on various sewa projects around India. The one I will be working on, is in the outskirts of Mumbai working for a charity which seeks to stop young children, who run away from home, being exploited by dangerous people. This blog essentially highlights my reasons for embarking on YFS and my general thoughts before going.</p>
-
 				<a href="https://surajtailor.wordpress.com" target="_blank">Read Suraj's blog</a>
+				<hr />
+				<h4>Pavni Lakhani</h4>
+				<h3>A bike, a box and a boy</h3>
+				<strong>Posted on October 22, 2015</strong>
+				<p>When I reached the tekro this morning I stood at a gate, shouting for Ramesh bhai, the man who delivers the tiffin boxes. I had asked to accompany him to see what he did. I shouted and waited. I heard some shuffling coming from the room above and then slowly I heard the light tread of someone moving down the stairs. The gate opened and I smiled. He stood there, legs in the air, arms firmly on the floor, smiling at me and welcoming me into his home.</p>
+				<a href="https://smileforchangeblog.wordpress.com/" target="_blank">Read Pavni's blog</a>				
 			</div>
 		</div>
 	</section>
