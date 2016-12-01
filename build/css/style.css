@@ -5876,6 +5876,9 @@ body {
     .container header .banner h1 {
       color: #aaa;
       font-size: 1.6em; }
+  .container .navbar-default .navbar-nav > .active > a, .container .navbar-default .navbar-nav > .active > a:hover, .container .navbar-default .navbar-nav > .active > a:focus {
+    color: #ddd;
+    background: none; }
   .container .navbar {
     margin-bottom: 0px;
     border-radius: 0px;
