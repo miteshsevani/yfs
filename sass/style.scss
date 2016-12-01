@@ -177,27 +177,26 @@ body {
 		    height: 25px;
 		    line-height: 25px;
 		    text-align: center;
-		    margin: 7px 7px 0px 10px;
-
+		    margin: 7px 5px 0px 5px;
 		}
 		[class*="fa fa-envelope"] {
 		    background-color: $orange;
 		    padding-right:1px;
 		}
 
-		[class*="fa fa-facebook"] {
+		[class*="fa fa-facebook"],
+		[class*="fa fa-twitter"] {
 		    background-color: $nav-font-color;
-		    padding-top: 2px;
-		    margin-right:20px;
+		    padding-top: 2px;		    
 		    color:#4267b2;
-
-		    @media #{$phone}{
-				margin-left:19px;
-		    }
+		    
 		    &:hover {
 		    	color:$nav-font-color;
 		    	background-color:$brand-primary;
 		    }
+		}
+		[class*="fa fa-twitter"] {
+			margin-right:20px;
 		}
 	}
 		
@@ -282,7 +281,7 @@ body {
 			font-style: italic;
 		}
 		.brand {
-			@extend %brandFont;
+			/*@extend %brandFont;*/
 		}
 		.date {
 			color: #aaa;

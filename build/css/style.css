@@ -5817,7 +5817,7 @@ button.close {
 .container h1, .container h2, .container h3, .container h4, .container h5, .container h6 {
   color: #025aa5; }
 
-.container header .banner, .container .main .brand {
+.container header .banner {
   font-family: 'Gloria Hallelujah', cursive; }
 
 body {
@@ -5940,21 +5940,21 @@ body {
       height: 25px;
       line-height: 25px;
       text-align: center;
-      margin: 7px 7px 0px 10px; }
+      margin: 7px 5px 0px 5px; }
     .container .navbar [class*="fa fa-envelope"] {
       background-color: #ea6537;
       padding-right: 1px; }
-    .container .navbar [class*="fa fa-facebook"] {
+    .container .navbar [class*="fa fa-facebook"],
+    .container .navbar [class*="fa fa-twitter"] {
       background-color: #eee;
       padding-top: 2px;
-      margin-right: 20px;
       color: #4267b2; }
-      @media (max-width: 767px) {
-        .container .navbar [class*="fa fa-facebook"] {
-          margin-left: 19px; } }
-      .container .navbar [class*="fa fa-facebook"]:hover {
+      .container .navbar [class*="fa fa-facebook"]:hover,
+      .container .navbar [class*="fa fa-twitter"]:hover {
         color: #eee;
         background-color: #025aa5; }
+    .container .navbar [class*="fa fa-twitter"] {
+      margin-right: 20px; }
   @media (min-width: 768px) {
     .container .navbar .container-fluid {
       padding-left: 0px; }
@@ -6008,6 +6008,8 @@ body {
         display: none; }
     .container .main blockquote {
       font-style: italic; }
+    .container .main .brand {
+      /*@extend %brandFont;*/ }
     .container .main .date {
       color: #aaa; }
     .container .main .top {

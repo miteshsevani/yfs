@@ -19,6 +19,7 @@
 	      <ul class="nav navbar-nav navbar-right hidden-xs">
 			<li><a href="mailto:yfs@sewauk.org"><i class="fa fa-envelope" aria-hidden="true"></i>yfs@sewauk.org</a></li>
 			<a href="https://www.facebook.com/youth4sewa/" target="_blank"><li class="fa fa-facebook"></li></a>
+			<a href="https://twitter.com/YouthforSewa" target="_blank"><li class="fa fa-twitter"></li></a>
 	      </ul>
 	    </div>
 	  </div>
