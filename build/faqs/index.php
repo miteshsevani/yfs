@@ -14,10 +14,10 @@
 				<h3 id="1">What is YFS?</h3>
 				<p>Youth for Sewa is an unpaid summer internship offered by Sewa International UK & National Hindu Students Forum, focusing on self-development through the service of underprivileged communities It is an opportunity for young adults to contribute their time to a larger movement of serving humanity.</p>
 				    
-				<h3 id="2">About sewa uk</h3>
+				<h3 id="2">About Sewa UK</h3>
 				<p>Sewa UK is part of a global movement: Sewa International, which works in 15 countries around the globe including USA, India, UK, Guyana, Suriname & Sri Lanka. The inspiration behind the organisation is ‘the service of humanity is the worship of God’ and ‘Vasudhaiva Kutumbakam’ – The world is one big family. Sewa International is a non-religious, non-political organisation dedicated to serving without boundaries of religion, race, gender or age. Sewa International is dedicated to support projects that build strong communities and a peaceful prosperous society. It is dedicated to inculcate true ideals of Sewa in citizens.</p>
 				
-				<h3 id="3">Why was the yfs – uk initiative established?</h3>
+				<h3 id="3">Why was the YFS – UK initiative established?</h3>
 				<p>It is recognised that Selfless Service is central to our sense of community. It is a powerful journey, which impacts both the individual serving and the people they work with. We aim to provide a safe platform whereby individuals can explore, discover and serve. Through this transforming journey of actualizing the meaning of selfless service we aim catalyze and inspire a life of Sewa.</p>
 				 
 				<h3 id="4">How are the projects chosen?</h3>
