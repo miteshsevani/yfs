@@ -5,7 +5,11 @@
 	        <span class="icon-bar"></span>
 	        <span class="icon-bar"></span>
 	        <span class="icon-bar"></span>
-	      </button>	      
+	      </button>
+	      <span class="navbar-brand visible-xs">
+			<a href="https://www.facebook.com/youth4sewa/" target="_blank"><span class="fa fa-facebook"></span></a>
+			<a href="https://twitter.com/YouthforSewa" target="_blank"><span class="fa fa-twitter"></span></a>
+	      </span>
 	    </div>
 	    <div class="collapse navbar-collapse" id="myNavbar">
 	      <ul class="nav navbar-nav navbar-left">

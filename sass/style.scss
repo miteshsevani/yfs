@@ -32,7 +32,9 @@ body {
 			family:'Slabo 27px', serif;
 		}
 	}
-
+	a {
+		 white-space: nowrap;
+	}
 	h2 { 
 		text-transform: uppercase; 
 	}
@@ -103,7 +105,10 @@ body {
 		    	background-color: $nav-font-color;
 			}
 		}
-
+		.navbar-brand {
+			position:relative;
+			padding: 6px 15px;
+		}
 		.nav > li {
 			cursor: pointer;
 			a {
@@ -375,7 +380,7 @@ body {
 			img {
 				margin-bottom: 20px;
 				@media #{$tablet-sm} {
-					width:170px;
+					width:200px;
 					&.left {
 						margin-right: 20px;
 					}
@@ -386,6 +391,10 @@ body {
 			}
 			a:after { 
 				content: ' >';
+			}
+			.post {
+				overflow: auto;
+				margin-bottom: 30px;
 			}
 		}
 		// FAqs
