@@ -11,8 +11,8 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-1.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 1</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            <!--h4>Slide 1</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p-->
                         </div>
                     </div>
                 </div>            
@@ -22,8 +22,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-2.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 2</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            
                         </div>
                     </div>
                 </div>            
@@ -33,8 +32,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-3.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 3</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            
                         </div>
                     </div>
                 </div>           
@@ -44,8 +42,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-5.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 1</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            
                         </div>
                     </div>
                 </div>            
@@ -55,8 +52,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-6.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 2</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            
                         </div>
                     </div>
                 </div>            
@@ -66,8 +62,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-8.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 3</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            
                         </div>
                     </div>
                 </div>           
@@ -77,8 +72,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-9.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 3</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            
                         </div>
                     </div>
                 </div>           
@@ -88,8 +82,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-10.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <h4>Slide 3</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, labore, magni illum nemo ipsum quod voluptates ab natus nulla possimus incidunt aut neque quaerat mollitia perspiciatis assumenda asperiores consequatur soluta.</p>
+                            
                         </div>
                     </div>
                 </div>           
