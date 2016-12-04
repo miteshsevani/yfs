@@ -23,9 +23,6 @@
 				<div class="logo">
 					<a href="/"><img src="/images/yfs-logo.jpg" /></a>
 				</div>
-				<div class="banner hidden">
-					<h1><span class="blue">Engage</span> | <span class="green">Discover</span> | <span class="orange">Serve</span></h1>
-				</div>
 			</div>
 		</div>
 	</header>

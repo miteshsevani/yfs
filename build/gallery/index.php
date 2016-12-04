@@ -61,7 +61,7 @@
                     <div class="row">
                         <div class="top col-xs-12"><img src="/gallery/images/gi-6.jpg" class="img-responsive"></div>
                         <div class="content col-xs-12">
-                            <p>Monkey - ing around with the Children  at Samato</p>
+                            <p>Monkey - ing around with the Children at Samatol</p>
                         </div>
                     </div>
                 </div>
