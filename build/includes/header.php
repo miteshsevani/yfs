@@ -6,6 +6,8 @@
 	<meta description="Youth for Sewa is an unpaid summer internship initiative led by Sewa UK to connect young dynamic individuals from diverse backgrounds with NGOs in rural India." />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="/images/favicon.ico" />
+	<link rel="icon" type="image/gif" href="/images/favicon.gif" />
 	<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Roboto|Slabo+27px" rel="stylesheet" />	
 	<link rel="stylesheet" type="text/css" href="/css/style.css" />
 	<link rel="stylesheet" type="text/css" href="/css/gallery.css" />

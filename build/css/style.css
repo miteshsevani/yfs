@@ -5846,7 +5846,8 @@ body {
     float: right; }
   .container header .logo {
     float: left;
-    margin-right: 38px; }
+    margin-right: 38px;
+    background: #fff; }
     @media (max-width: 479px) {
       .container header .logo {
         float: none;
@@ -5854,12 +5855,10 @@ body {
         text-align: center; } }
     .container header .logo img {
       width: 140px;
-      padding-top: 5px;
       box-shadow: 20px 0px 30px 20px #fff;
-      background: #fff;
-      -webkit-border-radius: 0 30px 30px 0;
-      -moz-border-radius: 0 30px 30px 0;
-      border-radius: 0 30px 30px 0; }
+      -webkit-border-radius: 0 20px 20px 0;
+      -moz-border-radius: 0 20px 20px 0;
+      border-radius: 0 20px 20px 0; }
       @media (max-width: 767px) {
         .container header .logo img {
           margin-left: -15px; } }
