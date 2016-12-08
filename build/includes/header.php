@@ -10,7 +10,6 @@
 	<link rel="icon" type="image/gif" href="/images/favicon.gif" />
 	<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Roboto|Slabo+27px" rel="stylesheet" />	
 	<link rel="stylesheet" type="text/css" href="/css/style.css" />
-	<link rel="stylesheet" type="text/css" href="/css/gallery.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://use.fontawesome.com/1a4f1d544f.js"></script>	
 	<script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>	

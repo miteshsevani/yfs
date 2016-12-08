@@ -5,16 +5,15 @@
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.css">
   
 <style type="text/css">
-
-.slider { width: 100%; background: #eee; padding-top:25px;}
-.slick-slide { margin: 0px 20px; text-align: center;}
-.slick-prev:before,
-.slick-next:before { color: black; }
-.slick-dots { top:102%; }
-.slick-dots li button::before {color:#000 !important;font-size: 8px;}
-@media (max-width: 767px) { 
-    button.slick-arrow { display:none !important; } 
-}
+    .slider { width: 100%; background: #eee; padding-top:25px;}
+    .slick-slide { margin: 0px 20px; text-align: center;}
+    .slick-prev:before,
+    .slick-next:before { color: black; }
+    .slick-dots { top:102%; }
+    .slick-dots li button::before {color:#000 !important;font-size: 8px;}
+    @media (max-width: 767px) { 
+        button.slick-arrow { display:none !important; } 
+    }
 </style>
 
 <section class="main page-gallery">
@@ -96,10 +95,10 @@
     </div>
 </section>
 
-
+<?php include('../includes/footer.php'); ?>
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js" type="text/javascript" charset="utf-8"></script>
-  <script type="text/javascript">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
     $(document).on('ready', function() {
       $('.single-item').slick({
         dots: true,
@@ -111,8 +110,6 @@
         variableWidth: true
       });
     });
-  </script>
-
-
-
-<?php include('../includes/footer.php'); ?>
+</script>
+</body>
+</html>

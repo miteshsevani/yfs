@@ -21,3 +21,7 @@
 	
 <?php include('../includes/footer.php'); ?>
 <script src="/js/min/our-projects-min.js"></script>
+<script src="/js/min/map-min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUhy6mdGjpm3QadNfSQwIX7qtCz1yYTwk&callback=initMap" async defer></script>
+</body>
+</html>
