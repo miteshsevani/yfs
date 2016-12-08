@@ -267,6 +267,9 @@ body {
 	
 	// main section
 	.main {
+		@media #{$phone} {
+			padding: setSpacing(20) setSpacing(0);
+		}
 		@media #{$tablet} {
 			padding: setSpacing(20);
 		}
@@ -363,8 +366,17 @@ body {
 		}
 		// Gallery
 		&.page-gallery {
+			padding-top:50px;
 			img {
-				width:100%;
+				max-width:100%;
+				height:550px;
+				@media #{$phone-sm} { 
+					height:250px;
+				}
+				margin: 0 auto;
+			}
+			p.caption {
+				padding:10px;
 			}
 		}
 		// Blog
