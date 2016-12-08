@@ -10,89 +10,87 @@
 .slick-slide { margin: 0px 20px; text-align: center;}
 .slick-prev:before,
 .slick-next:before { color: black; }
-
+.slick-dots { top:102%; }
+.slick-dots li button::before {color:#000 !important;font-size: 8px;}
 @media (max-width: 767px) { 
-    .slick-dots,button { display:none !important; } 
+    button.slick-arrow { display:none !important; } 
 }
-
-.slick-slide::-moz-selection { color: red}
-.slick-slide::selection { color: red; }
 </style>
 
 <section class="main page-gallery">
 	<div class="container-fluid">    
         <section class="single-item slider">
             <div>
-              <img src="/gallery/images/gi-1.jpg" />
-              <p class="caption">Learning, reading, engaging</p>
+              <figure><img src="/gallery/images/gi-1.jpg" /></figure>
+              <figcaption>Learning, reading, engaging</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-2.jpg" />
-                <p class="caption">Hem and Suraj attending board meetings to procure funding for Samatol</p>
+                <figure><img src="/gallery/images/gi-2.jpg" /></figure>
+                <figcaption>Hem and Suraj attending board meetings to procure funding for Samatol</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-3.jpg" />
-                <p class="caption">There's always time for cricket after a busy day at the railway station</p>
+                <figure><img src="/gallery/images/gi-3.jpg" /></figure>
+                <figcaption>There's always time for cricket after a busy day at the railway station</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-4.jpg" />
-                <p class="caption">A glimpse of Mumbai's railway stations. Due to high security photos are prohibited</p>
+                <figure><img src="/gallery/images/gi-4.jpg" /></figure>
+                <figcaption>A glimpse of Mumbai's railway stations. Due to high security photos are prohibited</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-5.jpg" />
-                <p class="caption">Pitching the work that Samatol do at a funding meeting</p>
+                <figure><img src="/gallery/images/gi-5.jpg" /></figure>
+                <figcaption>Pitching the work that Samatol do at a funding meeting</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-6.jpg" />
-                <p class="caption">Monkey - ing around with the Children at Samatol</p>
+                <figure><img src="/gallery/images/gi-6.jpg" /></figure>
+                <figcaption>Monkey - ing around with the Children at Samatol</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-7.jpg" />
-                <p class="caption">Suraj playing with the Runaway children</p>
+                <figure><img src="/gallery/images/gi-7.jpg" /></figure>
+                <figcaption>Suraj playing with the Runaway children</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-8.jpg" />
-                <p class="caption">Busy planting, making the centre a greener place for the children</p>
+                <figure><img src="/gallery/images/gi-8.jpg" /></figure>
+                <figcaption>Busy planting, making the centre a greener place for the children</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-9.jpg" />
-                <p class="caption">More games and fun with the children</p>
+                <figure><img src="/gallery/images/gi-9.jpg" /></figure>
+                <figcaption>More games and fun with the children</figcaption>
             </div>
             <div>            
-                <img src="/gallery/images/gi-10.jpg" />
-                <p class="caption">Celebrating Rakshabandan</p>
+                <figure><img src="/gallery/images/gi-10.jpg" /></figure>
+                <figcaption>Celebrating Rakshabandan</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-11.jpg" />
-                <p class="caption">Celebrating Rakshabandan</p>
+                <figure><img src="/gallery/images/gi-11.jpg" /></figure>
+                <figcaption>Celebrating Rakshabandan</figcaption>
             </div>
             <div>       
-                <img src="/gallery/images/gi-12.jpg" />
-                <p class="caption">Celebrating Rakshabandan</p>
+                <figure><img src="/gallery/images/gi-12.jpg" /></figure>
+                <figcaption>Celebrating Rakshabandan</figcaption>
             </div>
             <div>       
-                <img src="/gallery/images/gi-13.jpg" />
-                <p class="caption">Rakshabandan antics with the children at Samatol</p>
+                <figure><img src="/gallery/images/gi-13.jpg" /></figure>
+                <figcaption>Rakshabandan antics with the children at Samatol</figcaption>
             </div>
             <div>       
-                <img src="/gallery/images/gi-14.jpg" />
-                <p class="caption">Our expert gardeners  at work</p>
+                <figure><img src="/gallery/images/gi-14.jpg" /></figure>
+                <figcaption>Our expert gardeners  at work</figcaption>
             </div>
             <div>       
-                <img src="/gallery/images/gi-15.jpg" />
-                <p class="caption">Our expert gardeners  at work</p>
+                <figure><img src="/gallery/images/gi-15.jpg" /></figure>
+                <figcaption>Our expert gardeners  at work</figcaption>
             </div>
             <div>       
-                <img src="/gallery/images/gi-16.jpg" />
-                <p class="caption">Children at the Kamalini Karnabadhir Vidyalaya</p>
+                <figure><img src="/gallery/images/gi-16.jpg" /></figure>
+                <figcaption>Children at the Kamalini Karnabadhir Vidyalaya</figcaption>
             </div>
             <div>
-                <img src="/gallery/images/gi-17.jpg" />
-                <p class="caption">A snapshot of the tribal communities we work with at the Banswara  project</p>
+                <figure><img src="/gallery/images/gi-17.jpg" /></figure>
+                <figcaption>A snapshot of the tribal communities we work with at the Banswara  project</figcaption>
             </div>
             <div>                
-                <img src="/gallery/images/gi-18.jpg" />
-                <p class="caption">All ready for the Kamalini  karnabadhir vidyalaya Diwali  performance</p>
+                <figure><img src="/gallery/images/gi-18.jpg" /></figure>
+                <figcaption>All ready for the Kamalini  karnabadhir vidyalaya Diwali  performance</figcaption>
             </div>
         </section>
     </div>
