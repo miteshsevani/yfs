@@ -5818,7 +5818,8 @@ button.close {
   color: #025aa5; }
 
 body {
-  background: #ececec;
+  margin: 0px;
+  padding: 0px;
   font-family: 'Roboto', sans-serif; }
 
 @media (max-width: 767px) {
@@ -5832,7 +5833,7 @@ body {
   background: #fff;
   /*box-shadow: 0px 0px 40px #222;*/
   padding: 0px;
-  max-width: 1000px; }
+  width: 100%; }
   .container h1, .container h2, .container h3, .container h4, .container h5, .container h6 {
     font-weight: 400;
     font-family: 'Slabo 27px', serif; }
@@ -5844,37 +5845,50 @@ body {
     float: left; }
   .container .right {
     float: right; }
-  .container header .logo {
-    float: left;
-    margin-right: 38px;
-    background: #fff; }
+  .container header {
+    background: url("../images/bg.jpg") no-repeat;
+    background-size: cover; }
+    .container header .logo {
+      float: left;
+      margin-right: 38px;
+      background: #fff; }
+      @media (max-width: 479px) {
+        .container header .logo {
+          float: none;
+          margin: 0px;
+          text-align: center; } }
+      .container header .logo img {
+        width: 140px;
+        box-shadow: 20px 0px 30px 20px #fff;
+        -webkit-border-radius: 0 20px 20px 0;
+        -moz-border-radius: 0 20px 20px 0;
+        border-radius: 0 20px 20px 0; }
+        @media (max-width: 767px) {
+          .container header .logo img {
+            margin-left: -15px; } }
+    .container header .banner {
+      float: right;
+      text-transform: uppercase;
+      margin-top: 20px; }
+      @media (max-width: 479px) {
+        .container header .banner {
+          display: none; } }
+      .container header .banner h1 {
+        margin-right: 28px;
+        font-size: 2.5vw;
+        color: #ddd;
+        font-family: Helvetica;
+        font-weight: 100;
+        font-style: italic; }
+        @media (max-width: 767px) {
+          .container header .banner h1 {
+            font-size: 4vw;
+            margin-right: 0px; } }
+        .container header .banner h1 span {
+          font-style: normal; }
     @media (max-width: 479px) {
-      .container header .logo {
-        float: none;
-        margin: 0px;
-        text-align: center; } }
-    .container header .logo img {
-      width: 140px;
-      box-shadow: 20px 0px 30px 20px #fff;
-      -webkit-border-radius: 0 20px 20px 0;
-      -moz-border-radius: 0 20px 20px 0;
-      border-radius: 0 20px 20px 0; }
-      @media (max-width: 767px) {
-        .container header .logo img {
-          margin-left: -15px; } }
-  @media (min-width: 480px) {
-    .container header {
-      background: #060618 url("../images/banner_1.png") no-repeat;
-      background-size: contain;
-      background-position: right; } }
-  @media (max-width: 767px) {
-    .container header {
-      background: #060618 url("../images/banner_1.png") no-repeat;
-      background-size: cover;
-      background-position: right; } }
-  @media (max-width: 479px) {
-    .container header {
-      background: none; } }
+      .container header {
+        background: none; } }
   .container .navbar-default .navbar-nav > .active > a, .container .navbar-default .navbar-nav > .active > a:hover, .container .navbar-default .navbar-nav > .active > a:focus {
     color: #ddd;
     background: none; }
@@ -5986,7 +6000,7 @@ body {
   .container .carousel img,
   .container .carousel-inner img,
   .container .carousel-inner .item img {
-    height: 470px;
+    height: 550px;
     width: 100%; }
     @media (max-width: 767px) {
       .container .carousel img,
@@ -5997,7 +6011,7 @@ body {
       .container .carousel img,
       .container .carousel-inner img,
       .container .carousel-inner .item img {
-        height: 300px; } }
+        height: 280px; } }
   .container .main {
     line-height: 1.8em; }
     @media (max-width: 767px) {

@@ -30,6 +30,6 @@
 			break;
 		default:
 			$activeHome = "class='current'";
-			$title = "";
+			$title = " - Engage | Discover | Serve";
 	}
 ?>
