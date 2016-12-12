@@ -6000,18 +6000,8 @@ body {
   .container .carousel img,
   .container .carousel-inner img,
   .container .carousel-inner .item img {
-    height: 550px;
+    height: auto;
     width: 100%; }
-    @media (max-width: 767px) {
-      .container .carousel img,
-      .container .carousel-inner img,
-      .container .carousel-inner .item img {
-        height: 350px; } }
-    @media (max-width: 479px) {
-      .container .carousel img,
-      .container .carousel-inner img,
-      .container .carousel-inner .item img {
-        height: 280px; } }
   .container .main {
     line-height: 1.8em; }
     @media (max-width: 767px) {

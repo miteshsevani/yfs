@@ -272,13 +272,9 @@ body {
 	.carousel-inner, 
 	.carousel-inner .item {
 		img {
-			height: 550px;
-			@media #{$phone} {
-				height:350px;
-			}
-			@media #{$phone-sm} {
-				height:280px;
-			}
+			
+				height:auto;
+			
 			width:100%;
 		}
 	}
