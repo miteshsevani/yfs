@@ -5820,7 +5820,8 @@ button.close {
 body {
   margin: 0px;
   padding: 0px;
-  font-family: 'Roboto', sans-serif; }
+  font-family: 'Roboto', sans-serif;
+  background: #ececec; }
 
 @media (max-width: 767px) {
   .row {
@@ -5833,7 +5834,7 @@ body {
   background: #fff;
   /*box-shadow: 0px 0px 40px #222;*/
   padding: 0px;
-  width: 100%; }
+  max-width: 1000px; }
   .container h1, .container h2, .container h3, .container h4, .container h5, .container h6 {
     font-weight: 400;
     font-family: 'Slabo 27px', serif; }
@@ -5875,7 +5876,7 @@ body {
           display: none; } }
       .container header .banner h1 {
         margin-right: 28px;
-        font-size: 2.5vw;
+        font-size: 1.6vw;
         color: #ddd;
         font-family: Helvetica;
         font-weight: 100;
@@ -6000,8 +6001,18 @@ body {
   .container .carousel img,
   .container .carousel-inner img,
   .container .carousel-inner .item img {
-    height: auto;
+    height: 470px;
     width: 100%; }
+    @media (max-width: 767px) {
+      .container .carousel img,
+      .container .carousel-inner img,
+      .container .carousel-inner .item img {
+        height: 350px; } }
+    @media (max-width: 479px) {
+      .container .carousel img,
+      .container .carousel-inner img,
+      .container .carousel-inner .item img {
+        height: 300px; } }
   .container .main {
     line-height: 1.8em; }
     @media (max-width: 767px) {
