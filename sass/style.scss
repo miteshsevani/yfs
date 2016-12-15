@@ -76,10 +76,16 @@ body {
 			margin-top: 20px;
 			h1 { 
 				margin-right:28px;
-				font-size:1.6vw;
+				
 				@media #{$phone} {
 					font-size:4vw;
 					margin-right:0px;
+				}
+				@media #{$tablet} {
+					font-size:3vw;
+				}
+				@media #{$desktop} {
+					font-size:2vw;
 				}
 				color:#ddd;
 				font-family:Helvetica;

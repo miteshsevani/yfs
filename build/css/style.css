@@ -5876,7 +5876,6 @@ body {
           display: none; } }
       .container header .banner h1 {
         margin-right: 28px;
-        font-size: 1.6vw;
         color: #ddd;
         font-family: Helvetica;
         font-weight: 100;
@@ -5885,6 +5884,12 @@ body {
           .container header .banner h1 {
             font-size: 4vw;
             margin-right: 0px; } }
+        @media (min-width: 768px) {
+          .container header .banner h1 {
+            font-size: 3vw; } }
+        @media (min-width: 991px) {
+          .container header .banner h1 {
+            font-size: 2vw; } }
         .container header .banner h1 span {
           font-style: normal; }
     @media (max-width: 479px) {
