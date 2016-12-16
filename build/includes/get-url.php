@@ -1,5 +1,6 @@
 <?php
 	$url=$_SERVER['PHP_SELF'];
+	$activeAbout = "";
 	$activeProjects = "";
 	$activeGallery = "";
 	$activeBlog = "";
@@ -8,6 +9,10 @@
 	$activeHome = "";
 
 	switch($url) {
+		case("/about/index.php"):
+			$activeAbout = "class='current'";
+			$title = " - About YFS";
+			break;
 		case("/our-projects/index.php"):
 			$activeProjects = "class='current'";
 			$title = " - Our Projects";

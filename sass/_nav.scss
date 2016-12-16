@@ -1,0 +1,138 @@
+// Navbar
+	.navbar-default .navbar-nav > .active > {
+		a,a:hover,a:focus {
+			color: #ddd;
+    		background: none;
+		}
+	}
+
+	.navbar {
+		margin-bottom: 0px;
+		border-radius: 0px;
+		text-transform: uppercase;
+		border: none;	
+		background: $brand-primary;
+		min-height: 0px;
+		.navbar-toggle {
+			background-color: none;
+			border: none;	
+			.icon-bar {
+		    	background-color: $nav-font-color;
+			}
+		}
+		.navbar-brand {
+			position:relative;
+			padding: 6px 15px;
+		}
+		.nav > li {
+			cursor: pointer;
+			a {
+				color:#ddd;
+				padding: 10px 17px;
+				@media #{$tablet-only} {
+					padding: 10px 14px;
+				}
+				&:focus {
+					background-color: transparent;
+				}
+			}
+			&.current {
+				background: $orange;
+				a {
+					color:$white;
+				}
+			}			
+			@media #{$phone} {
+				a:hover {
+					font-weight:normal;
+					color:$orange;
+				}
+				&.current {
+					border: none;
+					font-weight:900;
+					background: none;
+					a {
+						color:$orange;
+					}
+				}
+			}
+			@media #{$tablet} {
+				&:hover {
+					background: $orange;
+					a { 
+						color:$nav-font-color;
+						&:hover {
+							color:$white;
+						}
+					}
+				}
+			}
+		}
+		
+		.navbar-right {
+			display: inline-flex;
+			text-transform: none;
+			&.nav > li {
+				&:hover {
+					border-bottom: none;
+					background: none;
+				}
+				> a {
+					padding: 0px 10px;
+					&:hover {
+						font-weight:700;
+					}					
+				}
+			}
+		}
+
+		.navbar-toggle {
+			margin-right: 0px;
+			&:hover, &:focus {
+				background-color: transparent;
+			}
+		}
+
+		[class*="fa"] {
+			border-radius: 30px;
+		    color: $white;
+		    display: inline-block;
+		    width: 25px;
+		    height: 25px;
+		    line-height: 25px;
+		    text-align: center;
+		    margin: 7px 5px 0px 5px;
+		}
+		[class*="fa fa-envelope"] {
+		    background-color: $orange;
+		    padding-right:1px;
+		}
+
+		[class*="fa fa-facebook"],
+		[class*="fa fa-twitter"] {
+		    background-color: $nav-font-color;
+		    padding-top: 2px;		    
+		    color:#4267b2;
+		    
+		    &:hover {
+		    	color:$nav-font-color;
+		    	background-color:$brand-primary;
+		    }
+		}
+		[class*="fa fa-twitter"] {
+			margin-right:20px;
+		}
+	}
+		
+	@media #{$tablet} {
+		.navbar {
+			.container-fluid {	
+			    padding-left: 0px;
+    			
+				.navbar-collapse {
+					margin:0px;
+					padding:setSpacing(0);
+				}
+			}
+		}
+	}
