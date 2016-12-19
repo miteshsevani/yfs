@@ -8,7 +8,7 @@
 	<meta charset="utf-8" />
 	<link rel="shortcut icon" href="/images/favicon.ico" />
 	<link rel="icon" type="image/gif" href="/images/favicon.gif" />
-	<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Roboto|Slabo+27px|Open+Sans|Poiret+One" rel="stylesheet" />	
+	<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Roboto|Slabo+27px|Open+Sans|Poiret+One|Raleway" rel="stylesheet" />	
 	<link rel="stylesheet" type="text/css" href="/css/style.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://use.fontawesome.com/1a4f1d544f.js"></script>	
