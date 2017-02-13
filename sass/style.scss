@@ -35,7 +35,7 @@ body {
 		@extend %baseColor;		
 		font: {
 			weight:400;
-			family:'Slabo 27px', serif;
+			family:'Slabo 27px', serif;			
 		}
 	}
 	a {
@@ -93,7 +93,7 @@ body {
 				@media #{$desktop} {
 					font-size:2vw;
 				}
-				color:#ddd;
+				color:#eee;
 				font-family:Helvetica;
 				font-weight:100;
 				font-style:italic;
@@ -118,7 +118,7 @@ body {
 		text-align:center;
 		img {
 			max-width:100%;
-			opacity:0.9;
+			
 		}
 		.home-banner-content {
 			position:absolute;			
@@ -131,8 +131,7 @@ body {
 				line-height:22px;
 				padding: 0 20px;
 				font-family: 'Roboto', sans-serif;
-				font-family: 'Raleway', sans-serif;
-				font-weight:100 !important;
+				font-weight:100;
 			}
 			a {			
 				font-size: 15px;
@@ -211,6 +210,7 @@ body {
 				}
 			}
 		}
+
 		// Our Projects
 		&.page-our-projects {
 			#map_wrapper {
