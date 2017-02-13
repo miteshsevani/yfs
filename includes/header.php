@@ -18,7 +18,7 @@
 <body>
 
 <div id="top" class="container">
-	<header>
+	<header class="hidden-xs">
 		<div class="row">
 			<div class="col col-sm-12">
 				<div class="logo">

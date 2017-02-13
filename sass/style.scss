@@ -137,6 +137,16 @@ body {
 				font-size: 15px;
 			}
 			
+			@media #{$phone-sm} { 
+				bottom:0px;	
+				h1 {
+					font-size:14px;
+					line-height:17px;
+					padding: 0 0px;
+					margin-bottom:10px;	
+					font-weight:400;
+				}
+			}
 			@media #{$tablet-sm} {
 				bottom:30px;	
 				h1 {
