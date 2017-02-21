@@ -5992,28 +5992,21 @@ body {
     .container header .banner {
       float: right;
       text-transform: uppercase;
-      margin-top: 20px; }
+      margin-top: 25px; }
       @media (max-width: 479px) {
         .container header .banner {
           display: none; } }
       .container header .banner h1 {
         margin-right: 28px;
         color: #eee;
-        font-family: Helvetica;
-        font-weight: 100;
-        font-style: italic; }
+        font-family: 'Roboto', sans-serif;
+        font-size: 25px;
+        font-weight: 100; }
         @media (max-width: 767px) {
           .container header .banner h1 {
-            font-size: 4vw;
             margin-right: 0px; } }
-        @media (min-width: 768px) {
-          .container header .banner h1 {
-            font-size: 3vw; } }
-        @media (min-width: 991px) {
-          .container header .banner h1 {
-            font-size: 2vw; } }
         .container header .banner h1 span {
-          font-style: normal; }
+          opacity: 0.3; }
     @media (max-width: 479px) {
       .container header {
         background: none; } }
