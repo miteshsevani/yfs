@@ -25,7 +25,7 @@
 					<a href="/"><img src="/images/yfs-logo.jpg" /></a>
 				</div>
 				<div class="banner">
-				<h1>Engage<span> / </span>Discover<span> / </span>Serve / Test</h1>
+				<h1>Engage<span> / </span>Discover<span> / </span>Serve</h1>
 				</div>
 			</div>
 		</div>
