@@ -16,7 +16,6 @@
 	<script src="/js/min/script-min.js"></script>	
 </head>
 <body>
-
 <div id="top" class="container">
 	<header class="hidden-xs">
 		<div class="row">
