@@ -11,6 +11,13 @@
 		<div class="row">
 			<div class="col col-sm-12">
 				<div class="post">
+					<h4>Reena Parekh</h4>
+					<h3>Scorching heat, Swollen feet</h3>
+					<p class="date">Posted on February 28, 2017</p>					
+					<p>Saying goodbye to old habits, friends, family, generally taking yourself out of your comfort zone is always hard. I find myself thinking that the dream of doing Seva is finally becoming a reality.</p>
+					<p><a href="https://dharmiclotus.travel.blog" target="_blank">Read Reena's blog</a></p>
+				</div>
+				<div class="post">
 					<h4>Hem Mistry</h4>
 					<h3>YFS – Why & Initial Thoughts</h3>
 					<p class="date">Posted on August 3, 2016</p>
