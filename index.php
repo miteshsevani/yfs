@@ -6,7 +6,7 @@
 		<img src="/images/rsz_yfs-leaflet-2-2.jpg" />
 		<div class="home-banner-content">
 			<h1>Youth for Sewa is an unpaid summer internship initiative led by Sewa UK to connect young dynamic individuals from diverse backgrounds with NGOs in rural India.</h1>
-			<a href="/apply/" class="btn btn-success">Apply Now</a>
+			<a href="/apply/" class="btn btn-success">Apply Now ></a>
 		</div>
 	</section>
 
