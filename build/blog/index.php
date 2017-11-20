@@ -27,7 +27,6 @@
 				</div>
 				<div class="post">
 					<h3>Hem Mistry, 2016</h3>
-					<p class="date">Posted on August 3, 2016</p>
 					<p>Hem tells the stories of the children he worked with at Samatol and explores life in Indian at a musician!</p>
 					<p><a href="https://hemmistry.wordpress.com" target="_blank">Read Hem's blog</a></p>
 				</div>
