@@ -5821,7 +5821,8 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: 'Roboto', sans-serif;
-  background: #ececec; }
+  background: #ececec;
+  font-size: 16px; }
 
 @media (max-width: 767px) {
   .row {
@@ -6091,43 +6092,43 @@ body {
       font-size: 16px; }
       .container .main .top a:hover {
         text-decoration: none; }
-    .container .main.page-our-projects #map_wrapper {
+    .container .main.page-india-partners #map_wrapper {
       height: 400px;
       width: auto;
       margin: 0 auto; }
-      .container .main.page-our-projects #map_wrapper a:after {
+      .container .main.page-india-partners #map_wrapper a:after {
         content: ' >'; }
     @media (min-width: 768px) {
-      .container .main.page-our-projects #map_wrapper {
+      .container .main.page-india-partners #map_wrapper {
         width: 100%; } }
-    .container .main.page-our-projects #map_canvas {
+    .container .main.page-india-partners #map_canvas {
       width: 100%;
       height: 100%; }
-    .container .main.page-our-projects .project-info {
+    .container .main.page-india-partners .project-info {
       padding: 20px 0px; }
-      .container .main.page-our-projects .project-info:last-child {
+      .container .main.page-india-partners .project-info:last-child {
         border-bottom: none; }
-      .container .main.page-our-projects .project-info h1, .container .main.page-our-projects .project-info h2, .container .main.page-our-projects .project-info h3, .container .main.page-our-projects .project-info h4, .container .main.page-our-projects .project-info h5, .container .main.page-our-projects .project-info h6 {
+      .container .main.page-india-partners .project-info h1, .container .main.page-india-partners .project-info h2, .container .main.page-india-partners .project-info h3, .container .main.page-india-partners .project-info h4, .container .main.page-india-partners .project-info h5, .container .main.page-india-partners .project-info h6 {
         text-transform: none; }
-      .container .main.page-our-projects .project-info a {
+      .container .main.page-india-partners .project-info a {
         margin-right: 10px; }
-    .container .main.page-our-projects .videoWrapper {
+    .container .main.page-india-partners .videoWrapper {
       position: relative;
       padding-top: 25px;
       padding-bottom: 56.25%;
       /* 16:9 */
       height: 0; }
-    .container .main.page-our-projects .videoWrapper iframe {
+    .container .main.page-india-partners .videoWrapper iframe {
       position: absolute;
       top: 0;
       left: 0;
       width: 100%;
       height: 100%; }
     @media (min-width: 768px) {
-      .container .main.page-our-projects .videoWrapper {
+      .container .main.page-india-partners .videoWrapper {
         padding-bottom: 28.12%;
         /* 16:9 */ }
-      .container .main.page-our-projects .videoWrapper iframe {
+      .container .main.page-india-partners .videoWrapper iframe {
         width: 50%; } }
     .container .main.page-gallery {
       padding-top: 50px; }
@@ -6163,10 +6164,10 @@ body {
     .container .main.page-blog .post {
       overflow: auto;
       margin-bottom: 30px; }
-    .container .main.page-faq ul {
-      padding: 0px;
-      list-style: none; }
-      .container .main.page-faq ul a {
+    .container .main.page-faq ol {
+      padding: 20px;
+      color: #025aa5; }
+      .container .main.page-faq ol a {
         font-size: 18px;
         font-weight: 300; }
     .container .main.page-faq h3 {

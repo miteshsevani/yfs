@@ -13,7 +13,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://use.fontawesome.com/1a4f1d544f.js"></script>	
 	<script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>	
-	<script src="/js/min/script-min.js"></script>	
+	<script src="/js/script-min.js"></script>	
 </head>
 <body>
 <div id="top" class="container">

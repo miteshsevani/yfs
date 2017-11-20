@@ -15,11 +15,12 @@
 	      <ul class="nav navbar-nav navbar-left">
 	        <li <?php print $activeHome;?>><a href="/">Home</a></li>	        
 	        <!--li <?php print $activeAbout;?>><a href="/about/">About</a></li-->
-	        <li <?php print $activeProjects;?>><a href="/our-projects/">Our Projects</a></li>
+	        <li <?php print $activeProjects;?>><a href="/india-partners/">India Partners</a></li>
 	        <li <?php print $activeGallery;?>><a href="/gallery/">Gallery</a></li>
-	        <li <?php print $activeBlog;?>><a href="/blog/">Blog</a></li>	        
-	        <li <?php print $activeFAQ;?>><a href="/faqs/">FAQs</a></li>
+	        <li <?php print $activeBlog;?>><a href="/blog/">Blog</a></li>
+					<li <?php print $activeOrientation;?>><a href="/orientation/">Orientation</a></li>					
 	        <li <?php print $activeApply;?>><a href="/apply/">Apply</a></li>
+					<li <?php print $activeFAQ;?>><a href="/faqs/">FAQs</a></li>
 	      </ul>
 	      <ul class="nav navbar-nav navbar-right hidden-xs">	      	
 			<li><a href="mailto:yfs@sewauk.org"><i class="fa fa-envelope" aria-hidden="true"></i>yfs@sewauk.org</a></li>

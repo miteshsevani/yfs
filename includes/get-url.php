@@ -13,7 +13,7 @@
 			$activeAbout = "class='current'";
 			$title = " - About YFS";
 			break;
-		case("/our-projects/index.php"):
+		case("/india-partners/index.php"):
 			$activeProjects = "class='current'";
 			$title = " - Our Projects";
 			break;
@@ -29,6 +29,10 @@
 			$activeApply = "class='current'";
 			$title = " - Apply";
 			break;
+		case("/orientation/index.php"):
+			$activeOrientation = "class='current'";
+			$title = " - Orientation";
+			break;			
 		case("/faqs/index.php"):
 			$activeFAQ = "class='current'";
 			$title = " - FAQs";

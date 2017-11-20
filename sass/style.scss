@@ -6,6 +6,7 @@ body {
 	padding:0px;
 	font-family: 'Roboto', sans-serif;
 	background: #ececec;
+	font-size:16px;
 }
 
 @media #{$phone} {	
@@ -219,7 +220,7 @@ body {
 		}
 
 		// Our Projects
-		&.page-our-projects {
+		&.page-india-partners {
 			#map_wrapper {
 		    	height: 400px;
 		    	width:auto;
@@ -331,9 +332,9 @@ body {
 		}
 		// FAqs
 		&.page-faq {
-			ul {		
-				padding: setSpacing(0);
-				list-style: none;
+			ol {		
+				padding: setSpacing(20);	
+				color: $brand-primary;			
 				a { 
 					font-size: $font-size-h4;
 					font-weight:300;

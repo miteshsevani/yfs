@@ -13,12 +13,15 @@
 	<section class="main page-home">
 		<div class="row">
 			<div class="col col-sm-7">
-				<h2>What is <span class="brand">YFS</span>?</h2>				
- 				<p>The internship focuses on self-development through the journey of service in underprivileged communities. It is an opportunity for individuals to contribute their energy, time and ideas and make a real difference.</p>
- 				<p>The program is designed to actualize the meaning of Sewa – Selfless Service.</p>
- 				<p>Projects are available in health care, education, environmental awareness, women’s empowerment, rural development and micro-finance.</p>
-				<p>Interns spend the duration of their internship working with NGOs in the community.</p>
-				<p>Through service, they will discover, learn and engage in a transformative experience that empowers them, as they strive to make an impact in their chosen field.</p>
+				<h2>Youth for Sewa (UK)</h2>				
+				<p>Youth for Sewa is collaboration between Sewa UK and National Hindu Students Forum (NHSF) aiming to cultivate and develop the spirit of sewa and inspire individuals to work for the wellbeing of humanity.</p>
+
+				<p>We offer a 6 week summer internship program focusing on self-development through the service of underprivileged communities.</p>
+
+				<p>Projects are available in health care, education, environmental awareness, women’s empowerment, rural development and micro-finance. Through service,  the interns discover, learn and engage in a transformative experience that empowers them, as they strive to make an impact in their chosen field.</p>
+
+				<p>We're looking for young dynamic individuals (18+) who are ready to challenge their perceptions and beliefs, push their boundaries and flourish as individuals.</p>
+
 			</div>		
 			<div class="col col-sm-5">
 				<h2>Impact</h2>

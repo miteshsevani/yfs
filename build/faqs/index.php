@@ -10,7 +10,15 @@
 
 		<div class="row">
 			<div class="col col-sm-11">
-				
+				<ol>
+					<li><a href="#1">About Sewa UK</a></li>
+					<li><a href="#2">What is YFS?</a></li>
+					<li><a href="#3">Why was the YFS – UK initiative established?</a></li>
+					<li><a href="#4">How are the projects chosen?</a></li>
+					<li><a href="#5">How do i apply?</a></li>
+					<li><a href="#6">What happens if my application is successful?</a></li>
+					<li><a href="#7">What does the internship cost?</a></li>
+				</ol>
 				
 				<h3 id="1">About Sewa UK</h3>
 				<p>Sewa UK is part of a global movement: Sewa International, which works in 15 countries around the globe including USA, India, UK, Guyana, Suriname & Sri Lanka. The inspiration behind the organisation is ‘the service of humanity is the worship of God’ and ‘Vasudhaiva Kutumbakam’ – The world is one big family. Sewa International is a non-religious, non-political organisation dedicated to serving without boundaries of religion, race, gender or age. Sewa International is dedicated to support projects that build strong communities and a peaceful prosperous society. It is dedicated to inculcate true ideals of Sewa in citizens.</p>
@@ -28,7 +36,7 @@
 				<p>Apply online or e-mail us with your interest and we can keep you updated with national events and our recruitment timeline. Once we receive your application you will be contacted for a phone interview by our selection team.</p>
 				
 				<h3 id="6">What happens if my application is successful?</h3>
-				<p>The internship starts in the UK. There are a series of 3 orientation days aimed to guide, inspire and prepare you for the journey ahead. You will be expected to engage, document, blog and reflect as part of the internship. Interns spend 6 weeks, commencing on the 9th July 2016 working with NGOs in the community. Through service, they will discover, learn and engage in a transformative experience that empowers them, as they strive to make an impact in their chosen field.</p>
+				<p>Your journey starts here, in the UK. There are a series of 3 orientation days aimed to guide, inspire and prepare you for the journey ahead. You will be expected to engage, document, blog and reflect as part of the internship. Interns spend 6 weeks over the summer working with NGOs in the community. Through service, they will discover, learn and engage in a transformative experience that empowers them, as they strive to make an impact in their chosen field.</p>
 				
 				<h3 id="7">What does the internship cost?</h3>
 				<p>The internship fee is £500 with the majority going directly to support the project you choose to work with. The remainder will cover administration costs, local travel and living expenses. You will be expected to purchase flights, travel insurance and medical cover independently.

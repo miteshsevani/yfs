@@ -20,6 +20,46 @@
 	<div class="container-fluid">    
         <section class="single-item slider">
             <div>
+              <figure><img src="/gallery/images/banswara-school.jpg" /></figure>
+              <figcaption>A school in Banswara</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/tribal-life.jpg" /></figure>
+              <figcaption>Banswara - The Tribal life</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/friends-for-life.jpg" /></figure>
+              <figcaption>Friends for life at Surajya Pune</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/games-at-surajya.jpg" /></figure>
+              <figcaption>Games at Surajya - Pune</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/menstrual-hygeine-workshop.jpg" /></figure>
+              <figcaption>Garima conducting a menstrual hygeine workshop</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/schools-in-banswara.jpg" /></figure>
+              <figcaption>Schools in Banswara</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/making-sustainable-eco-friendly-sanitary-towels.jpg" /></figure>
+              <figcaption>Vipasha visits a centre for making sustainable, eco-friendly sanitary towels</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/public-speaking-guru.jpg" /></figure>
+              <figcaption>In awe of Sumit - our Public speaking Guru!</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/public-speaking-workshop-2018.jpg" /></figure>
+              <figcaption>Public Speaking workshop 2018</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/workshop-on-telling-stories.jpg" /></figure>
+              <figcaption>Yogesh Joshi conducting a workshop on telling stories</figcaption>
+            </div>            
+            <div>
               <figure><img src="/gallery/images/gi-1.jpg" /></figure>
               <figcaption>Learning, reading, engaging</figcaption>
             </div>

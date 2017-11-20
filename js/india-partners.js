@@ -2,7 +2,7 @@ $(document).ready(function(){
 
   // Make the call to the API
   $.ajax({
-    url: "/our-projects/data/projects.json",        
+    url: "/india-partners/data/projects.json",        
     dataType: "json",      
     success: function(data) {        
       var items = [];

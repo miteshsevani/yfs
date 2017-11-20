@@ -17,8 +17,49 @@
 </style>
 
 <section class="main page-gallery">
+    <h2>Our stories in pictures</h2>
 	<div class="container-fluid">    
         <section class="single-item slider">
+            <div>
+              <figure><img src="/gallery/images/banswara-school.jpg" /></figure>
+              <figcaption>A school in Banswara</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/tribal-life.jpg" /></figure>
+              <figcaption>Banswara - The Tribal life</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/friends-for-life.jpg" /></figure>
+              <figcaption>Friends for life at Surajya Pune</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/games-at-surajya.jpg" /></figure>
+              <figcaption>Games at Surajya - Pune</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/menstrual-hygeine-workshop.jpg" /></figure>
+              <figcaption>Garima conducting a menstrual hygeine workshop</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/schools-in-banswara.jpg" /></figure>
+              <figcaption>Schools in Banswara</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/making-sustainable-eco-friendly-sanitary-towels.jpg" /></figure>
+              <figcaption>Vipasha visits a centre for making sustainable, eco-friendly sanitary towels</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/public-speaking-guru.jpg" /></figure>
+              <figcaption>In awe of Sumit - our Public speaking Guru!</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/public-speaking-workshop-2018.jpg" /></figure>
+              <figcaption>Public Speaking workshop 2018</figcaption>
+            </div>
+            <div>
+              <figure><img src="/gallery/images/workshop-on-telling-stories.jpg" /></figure>
+              <figcaption>Yogesh Joshi conducting a workshop on telling stories</figcaption>
+            </div>            
             <div>
               <figure><img src="/gallery/images/gi-1.jpg" /></figure>
               <figcaption>Learning, reading, engaging</figcaption>
@@ -45,7 +86,7 @@
             </div>
             <div>
                 <figure><img src="/gallery/images/gi-7.jpg" /></figure>
-                <figcaption>Suraj playing with the Runaway children</figcaption>
+                <figcaption>Suraj playing with the children</figcaption>
             </div>
             <div>
                 <figure><img src="/gallery/images/gi-8.jpg" /></figure>
@@ -56,41 +97,13 @@
                 <figcaption>More games and fun with the children</figcaption>
             </div>
             <div>            
-                <figure><img src="/gallery/images/gi-10.jpg" /></figure>
+                <figure><img src="/gallery/images/raksha-bandhan.jpg" /></figure>
                 <figcaption>Celebrating Rakshabandan</figcaption>
-            </div>
-            <div>
-                <figure><img src="/gallery/images/gi-11.jpg" /></figure>
-                <figcaption>Celebrating Rakshabandan</figcaption>
-            </div>
+            </div>            
             <div>       
-                <figure><img src="/gallery/images/gi-12.jpg" /></figure>
-                <figcaption>Celebrating Rakshabandan</figcaption>
-            </div>
-            <div>       
-                <figure><img src="/gallery/images/gi-13.jpg" /></figure>
-                <figcaption>Rakshabandan antics with the children at Samatol</figcaption>
-            </div>
-            <div>       
-                <figure><img src="/gallery/images/gi-14.jpg" /></figure>
-                <figcaption>Our expert gardeners  at work</figcaption>
-            </div>
-            <div>       
-                <figure><img src="/gallery/images/gi-15.jpg" /></figure>
-                <figcaption>Our expert gardeners  at work</figcaption>
-            </div>
-            <div>       
-                <figure><img src="/gallery/images/gi-16.jpg" /></figure>
-                <figcaption>Children at the Kamalini Karnabadhir Vidyalaya</figcaption>
-            </div>
-            <div>
-                <figure><img src="/gallery/images/gi-17.jpg" /></figure>
-                <figcaption>A snapshot of the tribal communities we work with at the Banswara  project</figcaption>
-            </div>
-            <div>                
-                <figure><img src="/gallery/images/gi-18.jpg" /></figure>
-                <figcaption>All ready for the Kamalini  karnabadhir vidyalaya Diwali  performance</figcaption>
-            </div>
+                <figure><img src="/gallery/images/gardening.jpg" /></figure>
+                <figcaption>Our expert gardeners at work</figcaption>
+            </div>            
         </section>
     </div>
 </section>
